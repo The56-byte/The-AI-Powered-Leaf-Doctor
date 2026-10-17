@@ -1,0 +1,94 @@
+{
+  "seed": 42,
+  "classes_count": 10,
+  "total_images_scanned": 260,
+  "exact_duplicates_removed": 10,
+  "near_duplicate_clusters_found": 55,
+  "split_counts": {
+    "train": 151,
+    "val": 21,
+    "test": 78
+  },
+  "per_class": {
+    "Tomato - Healthy": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 1,
+      "train": 17,
+      "val": 3,
+      "test": 5
+    },
+    "Tomato - Early Blight": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 5,
+      "train": 13,
+      "val": 1,
+      "test": 11
+    },
+    "Tomato - Late Blight": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 9,
+      "train": 17,
+      "val": 2,
+      "test": 6
+    },
+    "Tomato - Leaf Mold": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 1,
+      "train": 17,
+      "val": 3,
+      "test": 5
+    },
+    "Potato - Healthy": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 1,
+      "train": 17,
+      "val": 3,
+      "test": 5
+    },
+    "Potato - Early Blight": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 3,
+      "train": 9,
+      "val": 1,
+      "test": 15
+    },
+    "Potato - Late Blight": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 10,
+      "train": 15,
+      "val": 3,
+      "test": 7
+    },
+    "Apple - Healthy": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 1,
+      "train": 17,
+      "val": 3,
+      "test": 5
+    },
+    "Apple - Apple Scab": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 12,
+      "train": 15,
+      "val": 1,
+      "test": 9
+    },
+    "Apple - Black Rot": {
+      "total_unique": 25,
+      "duplicates_purged": 1,
+      "clusters": 12,
+      "train": 14,
+      "val": 1,
+      "test": 10
+    }
+  }
+}

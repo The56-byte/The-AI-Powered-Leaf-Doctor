@@ -1,0 +1,132 @@
+{
+  "Tomato - Healthy": {
+    "crop": "Tomato",
+    "condition": "Healthy",
+    "is_healthy": true,
+    "summary": "The tomato foliage displays vibrant green coloration with no visible signs of chlorosis, necrosis, or fungal lesions.",
+    "symptoms": "Normal leaf morphology, uniform chlorophyll distribution, intact leaf margins.",
+    "care_tips": [
+      "Maintain consistent watering at the base of the plant to prevent soil splash onto lower leaves.",
+      "Ensure 6–8 hours of full direct sunlight daily.",
+      "Prune bottom suckers and foliage touching the ground to promote airflow.",
+      "Feed with a balanced potassium- and phosphorus-rich organic fertilizer."
+    ]
+  },
+  "Tomato - Early Blight": {
+    "crop": "Tomato",
+    "condition": "Early Blight (Alternaria solani)",
+    "is_healthy": false,
+    "summary": "A common fungal disease caused by Alternaria solani, often starting on older foliage near the ground.",
+    "symptoms": "Characteristic concentric rings ('target-board' or 'bullseye' pattern) with chlorotic yellow halos surrounding dark brown necrotic lesions.",
+    "care_tips": [
+      "Immediately strip off and safely dispose of infected lower leaves; do not compost infected tissue.",
+      "Mulch soil around plants to prevent fungal spores in the soil from splashing onto leaves during watering.",
+      "Apply copper-based organic fungicide or bio-fungicide (Bacillus subtilis) at first symptom onset.",
+      "Water early in the morning and avoid overhead irrigation to keep the canopy dry."
+    ]
+  },
+  "Tomato - Late Blight": {
+    "crop": "Tomato",
+    "condition": "Late Blight (Phytophthora infestans)",
+    "is_healthy": false,
+    "summary": "A devastating water mold (oomycete) pathogen that can destroy foliage and fruit rapidly in cool, humid conditions.",
+    "symptoms": "Irregular dark, water-soaked lesions that turn purplish-brown; delicate white fuzzy fungal growth may appear on the leaf undersides in high humidity.",
+    "care_tips": [
+      "Urgent action required: rogue and destroy severely affected plants immediately to protect neighboring crops.",
+      "Avoid overhead sprinkler watering; improve spacing for rapid drying.",
+      "Apply protective preventive copper fungicides when cool (60–70°F), wet weather is forecast.",
+      "Rotate nightshade crops with non-susceptible crops for at least 2–3 seasons."
+    ]
+  },
+  "Tomato - Leaf Mold": {
+    "crop": "Tomato",
+    "condition": "Leaf Mold (Passalora fulva / Cladosporium)",
+    "is_healthy": false,
+    "summary": "A fungal pathogen common in high-humidity greenhouses and sheltered gardens with stagnant air.",
+    "symptoms": "Pale greenish-yellow chlorotic spots on upper leaf surfaces; olive-green to grayish velvety fungal cushions on corresponding undersides.",
+    "care_tips": [
+      "Significantly boost ventilation and lower relative humidity below 85% in greenhouses.",
+      "Space plants generously and prune crowded interior leaf canopy.",
+      "Water only the root zone using drip lines.",
+      "Spray preventative bio-fungicide or copper soap on foliage under high humidity."
+    ]
+  },
+  "Potato - Healthy": {
+    "crop": "Potato",
+    "condition": "Healthy",
+    "is_healthy": true,
+    "summary": "The potato vine shows strong vegetative health with uniform green compound leaves free of blight lesions.",
+    "symptoms": "Firm stems, vigorous leaflet growth, absence of spotting or premature defoliation.",
+    "care_tips": [
+      "Hill soil up around stems as vines grow to protect developing tubers from sun exposure (greening).",
+      "Provide steady, even moisture, especially during tuber initiation and flowering.",
+      "Keep garden beds weed-free to eliminate wild alternate disease hosts.",
+      "Monitor underside of leaves weekly for early signs of beetle eggs or fungal spores."
+    ]
+  },
+  "Potato - Early Blight": {
+    "crop": "Potato",
+    "condition": "Early Blight (Alternaria solani)",
+    "is_healthy": false,
+    "summary": "Fungal leaf spot disease that stresses potato vines and leads to premature foliage death if unchecked.",
+    "symptoms": "Small brown angular spots enlarging into distinct concentric rings, frequently bordered by a yellow margin on mature leaves.",
+    "care_tips": [
+      "Prune and discard infected leaflets from the lower tiers.",
+      "Maintain robust soil fertility, as nutrient-deficient plants are significantly more vulnerable to Alternaria.",
+      "Avoid handling potato foliage when wet from rain or dew.",
+      "Apply organic copper fungicide every 7–10 days during warm, humid conditions."
+    ]
+  },
+  "Potato - Late Blight": {
+    "crop": "Potato",
+    "condition": "Late Blight (Phytophthora infestans)",
+    "is_healthy": false,
+    "summary": "The infamous historical pathogen responsible for the Irish Potato Famine; spreads explosively in damp conditions.",
+    "symptoms": "Rapidly expanding water-soaked spots turning black or dark brown, often with a pale green halo; white fungal down on lower leaf surfaces.",
+    "care_tips": [
+      "Remove and bag infected vines immediately; never allow blight spores to wash down into potato tubers.",
+      "Hill soil deeply over tubers to form a physical barrier against spores washing down from leaves.",
+      "Harvest tubers only in dry weather at least two weeks after vines have died or been cut.",
+      "Plant certified disease-free seed potatoes."
+    ]
+  },
+  "Apple - Healthy": {
+    "crop": "Apple",
+    "condition": "Healthy",
+    "is_healthy": true,
+    "summary": "Apple leaves exhibit deep green coloration, clear serrated edges, and no fungal scabs or lesions.",
+    "symptoms": "Clean foliage, uniform texture, normal photosynthetic vigor.",
+    "care_tips": [
+      "Perform annual dormant winter pruning to encourage sunlight penetration throughout the canopy.",
+      "Rake and compost or destroy fallen autumn leaves to eliminate overwintering spores.",
+      "Apply dormant horticultural oil in late winter before buds break.",
+      "Ensure proper root drainage and steady watering during fruit sizing."
+    ]
+  },
+  "Apple - Apple Scab": {
+    "crop": "Apple",
+    "condition": "Apple Scab (Venturia inaequalis)",
+    "is_healthy": false,
+    "summary": "The most prevalent apple fungal disease worldwide, impacting leaves and blemishing fruit skins.",
+    "symptoms": "Olive-green, velvety or velvety-brown spots with feathery, indistinct margins, later turning corky and dark brown.",
+    "care_tips": [
+      "Meticulously rake and dispose of fallen leaves in autumn where the fungus overwinters.",
+      "Prune the tree canopy in winter to maximize rapid wind drying of morning dew.",
+      "Apply sulfur- or copper-based sprays in spring starting at green-tip bud stage.",
+      "Choose scab-resistant apple cultivars (e.g., Liberty, Freedom, Enterprise) for future plantings."
+    ]
+  },
+  "Apple - Black Rot": {
+    "crop": "Apple",
+    "condition": "Black Rot / Frogeye Leaf Spot (Botryosphaeria obtusa)",
+    "is_healthy": false,
+    "summary": "A fungal pathogen affecting apple leaves (frogeye leaf spot phase), twigs (cankers), and maturing fruit.",
+    "symptoms": "Small purple specks on leaves that enlarge into circular lesions with light brown centers and distinct dark purple margins ('frogeye' appearance).",
+    "care_tips": [
+      "Prune out dead wood, fire-blight strikes, and mummified fruit, which are prime reservoirs for the fungus.",
+      "Sterilize pruning shears between cuts with 70% rubbing alcohol.",
+      "Apply captan- or copper-based fungicides from pink bud stage through petal fall.",
+      "Maintain tree vigor through balanced soil nutrition and summer irrigation."
+    ]
+  }
+}

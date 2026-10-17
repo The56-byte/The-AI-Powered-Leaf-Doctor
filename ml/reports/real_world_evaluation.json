@@ -1,0 +1,14 @@
+[
+  {
+    "file": "real_garden_apple_scab.jpg",
+    "prediction": "Potato - Early Blight",
+    "confidence": 0.131,
+    "status": "UNCERTAIN"
+  },
+  {
+    "file": "real_garden_tomato_early_blight.jpg",
+    "prediction": "Apple - Healthy",
+    "confidence": 0.118,
+    "status": "UNCERTAIN"
+  }
+]

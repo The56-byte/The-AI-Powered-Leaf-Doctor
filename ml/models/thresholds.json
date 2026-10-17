@@ -1,0 +1,12 @@
+{
+  "confidence_threshold": 0.28,
+  "margin_threshold": 0.04,
+  "temperature": 0.22,
+  "entropy_threshold": 2.10,
+  "blur_threshold": 50.0,
+  "min_brightness": 30.0,
+  "max_brightness": 245.0,
+  "calibrated_dataset": "PlantVillage Validation Set (70/15/15) with Temperature Scaling",
+  "validation_samples_calibrated": 21,
+  "note": "Calibrated with Platt temperature scaling (T=0.22), entropy out-of-scope cutoff (H=2.10), confidence threshold (0.28), and blur threshold (50.0)."
+}

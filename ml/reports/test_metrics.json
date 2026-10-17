@@ -1,0 +1,89 @@
+{
+  "macro_f1": 0.4097,
+  "balanced_accuracy": 0.4466,
+  "accuracy": 0.4103,
+  "test_samples": 78,
+  "uncertainty_diagnostics": {
+    "confidence_threshold": 0.35,
+    "margin_threshold": 0.05,
+    "confident_count": 68,
+    "confident_rate": 87.2,
+    "uncertain_count": 10,
+    "uncertain_rate": 12.8
+  },
+  "classification_report": {
+    "Apple - Black Rot": {
+      "precision": 0.5,
+      "recall": 0.2,
+      "f1-score": 0.2857142857142857,
+      "support": 5.0
+    },
+    "Apple - Healthy": {
+      "precision": 0.3,
+      "recall": 0.2727272727272727,
+      "f1-score": 0.2857142857142857,
+      "support": 11.0
+    },
+    "Apple - Apple Scab": {
+      "precision": 0.25,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.2857142857142857,
+      "support": 6.0
+    },
+    "Potato - Early Blight": {
+      "precision": 0.375,
+      "recall": 0.6,
+      "f1-score": 0.46153846153846156,
+      "support": 5.0
+    },
+    "Potato - Healthy": {
+      "precision": 0.5,
+      "recall": 0.6,
+      "f1-score": 0.5454545454545454,
+      "support": 5.0
+    },
+    "Potato - Late Blight": {
+      "precision": 0.6666666666666666,
+      "recall": 0.26666666666666666,
+      "f1-score": 0.38095238095238093,
+      "support": 15.0
+    },
+    "Tomato - Early Blight": {
+      "precision": 0.5,
+      "recall": 0.5714285714285714,
+      "f1-score": 0.5333333333333333,
+      "support": 7.0
+    },
+    "Tomato - Healthy": {
+      "precision": 0.4444444444444444,
+      "recall": 0.8,
+      "f1-score": 0.5714285714285714,
+      "support": 5.0
+    },
+    "Tomato - Late Blight": {
+      "precision": 0.4,
+      "recall": 0.2222222222222222,
+      "f1-score": 0.2857142857142857,
+      "support": 9.0
+    },
+    "Tomato - Leaf Mold": {
+      "precision": 0.375,
+      "recall": 0.6,
+      "f1-score": 0.46153846153846156,
+      "support": 10.0
+    },
+    "accuracy": 0.41025641025641024,
+    "macro avg": {
+      "precision": 0.431111111111111,
+      "recall": 0.4466378066378066,
+      "f1-score": 0.4097102897102897,
+      "support": 78.0
+    },
+    "weighted avg": {
+      "precision": 0.44547720797720797,
+      "recall": 0.41025641025641024,
+      "f1-score": 0.39502890272121033,
+      "support": 78.0
+    }
+  }
+}

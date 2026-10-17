@@ -1,0 +1,22 @@
+filepath,class_id,label,crop,condition,is_healthy,group_id,md5
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___healthy\sample_0023.jpg,0,Tomato - Healthy,Tomato,Healthy,True,0,d4c1b80e8be42456dc9abf0c6bd37212
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___healthy\sample_0004.jpg,0,Tomato - Healthy,Tomato,Healthy,True,0,4311a9cd2e7206fb914042037d08b957
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___healthy\sample_0024.jpg,0,Tomato - Healthy,Tomato,Healthy,True,0,c064216365fe9b586506c268177abe89
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___Early_blight\sample_0023.jpg,1,Tomato - Early Blight,Tomato,Early Blight,False,4,2d1b4d285838a70d36e9b16cbc7eb386
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___Late_blight\sample_0001.jpg,2,Tomato - Late Blight,Tomato,Late Blight,False,1,6e8b68479bd4b6be22307b70a6426713
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___Late_blight\sample_0008.jpg,2,Tomato - Late Blight,Tomato,Late Blight,False,1,d2ef3c917c94c314d4955b8ab4b7d7eb
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___Leaf_Mold\sample_0023.jpg,3,Tomato - Leaf Mold,Tomato,Leaf Mold,False,0,172e6b3c405644a5f3078c93742c16f7
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___Leaf_Mold\sample_0004.jpg,3,Tomato - Leaf Mold,Tomato,Leaf Mold,False,0,d1e00d99322ebe9fdde6bf366f4202ab
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Tomato___Leaf_Mold\sample_0024.jpg,3,Tomato - Leaf Mold,Tomato,Leaf Mold,False,0,e67412768877208c7d56717b2054930f
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___healthy\sample_0023.jpg,4,Potato - Healthy,Potato,Healthy,True,0,1e209118a44c5184319d1e14d8720290
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___healthy\sample_0004.jpg,4,Potato - Healthy,Potato,Healthy,True,0,a37984ba399f2076fa5636df68dc8063
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___healthy\sample_0024.jpg,4,Potato - Healthy,Potato,Healthy,True,0,b47f7ab0a215595aeb016eb3731920cf
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___Early_blight\sample_0023.jpg,5,Potato - Early Blight,Potato,Early Blight,False,0,bd89a40fdaee61aa18ebb55cc157378d
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___Late_blight\sample_0000.jpg,6,Potato - Late Blight,Potato,Late Blight,False,0,b246bc98f9129003b2074f18501da946
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___Late_blight\sample_0016.jpg,6,Potato - Late Blight,Potato,Late Blight,False,0,bbd5ddafa10d7edaa803ec6730ac77e8
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Potato___Late_blight\sample_0022.jpg,6,Potato - Late Blight,Potato,Late Blight,False,0,04aa62857825a2cba63c92cec6a386a9
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Apple___healthy\sample_0023.jpg,7,Apple - Healthy,Apple,Healthy,True,0,1abc963e4c6563b2bb066d2c0cb5eb5c
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Apple___healthy\sample_0004.jpg,7,Apple - Healthy,Apple,Healthy,True,0,31c1e7ff0c1e0aa2d3a13af27452cd22
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Apple___healthy\sample_0024.jpg,7,Apple - Healthy,Apple,Healthy,True,0,ad133fe3d253f7a3f345e3224c2a1f0e
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Apple___Apple_scab\sample_0018.jpg,8,Apple - Apple Scab,Apple,Apple Scab,False,10,6f08f7e5b1822c01d6fea3fde5f5578f
+C:\Users\BHASKAR\Desktop\projects\missionathon\leafdoctor\ml\data\raw\Apple___Black_rot\sample_0020.jpg,9,Apple - Black Rot,Apple,Black Rot,False,10,6bc2bb5dd5769908d8342e4dd67af978
